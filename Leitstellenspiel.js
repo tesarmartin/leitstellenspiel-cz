@@ -4,6 +4,7 @@
 // @version      0.02
 // @description  Beta verze českého překladu do hry leitstellenspiel.de
 // @author       Martin Tesař
+// @include      *://www.leitstellenspiel.de/*
 // @updateURL    https://github.com/tesarmartin/leitstellenspiel-cz/blob/master/Leitstellenspiel.js
 // @downloadURL  https://github.com/tesarmartin/leitstellenspiel-cz/blob/master/Leitstellenspiel.js
 // @grant        none
