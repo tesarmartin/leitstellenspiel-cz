@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Leitstellenspiel.de - Český řeklad
 // @namespace    http://tampermonkey.net/
-// @version      0.01
+// @version      0.02
 // @description  Beta verze českého překladu do hry leitstellenspiel.de
 // @author       Martin Tesař
 // @updateURL    https://github.com/tesarmartin/leitstellenspiel-cz/blob/master/Leitstellenspiel.js
